@@ -1,4 +1,4 @@
-# AI Pick-and-Place Robot Arm
+# Pick and Place Robot Arm
 
 ## Overview
 This project demonstrates a simple AI-driven pick-and-place robot arm
@@ -35,4 +35,5 @@ python run_demo.py
 ```
 
 ## Sample Output
+
 ![demo screenshot](docs/screenshot_placeholder.png)
