@@ -16,8 +16,8 @@ pick_and_place_robot/
 ├── controller/         # PID controller implementation
 ├── vision/             # Object detection and vision processing
 ├── gui/                # Streamlit UI and optional Tkinter monitor
-├── data/               # Sample or test data (currently empty)
-├── models/             # Trained model files (currently empty)
+├── data/               # Sample or test data
+├── models/             # Trained model files 
 ├── run_demo.py         # Entry point to run the full system
 ├── requirements.txt    # Dependency list
 ```
@@ -43,6 +43,7 @@ python run_demo.py
 
 ##  Author
 **Saif Aqel**  
+
 
 
 
