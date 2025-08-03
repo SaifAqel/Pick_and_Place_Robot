@@ -41,14 +41,10 @@ python run_demo.py
 4. **PID Control**: Each joint is driven using a PID controller to smoothly reach the desired angle.
 5. **Visualization**: The Streamlit GUI displays the arm status, logs, and detected objects, allowing for interactive monitoring.
 
-##  Sample Output
-![Demo Screenshot](docs/screenshot_placeholder.png)
-
 ##  Author
 **Saif Aqel**  
 
 
----
 
-For best results, ensure your webcam is active and Python environment is correctly set up.
+
 
